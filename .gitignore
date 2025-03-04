@@ -1,4 +1,6 @@
 node_modules/
 .next/
 .env
+chatbot-backend/gcp_service_account.json
+
 
